@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <g id="Group_645" data-name="Group 645" transform="translate(-30 -299)">
+    <rect id="Rectangle_89" data-name="Rectangle 89" width="70" height="70" rx="10" transform="translate(30 299)" fill="#fff"/>
+    <text id="ePhone" transform="translate(38 355)" fill="#3b3858" font-size="12" font-family="Nunito-Bold, Nunito" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">ePhone</tspan></text>
+    <g id="Group_144" data-name="Group 144" transform="translate(-84 -161)">
+      <g id="Rectangle_103" data-name="Rectangle 103" transform="translate(123 472)" fill="none" stroke="#5a9aed" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5">
+        <rect width="12.867" height="16" rx="1" stroke="none"/>
+        <rect x="-0.25" y="-0.25" width="13.367" height="16.5" rx="1.25" fill="none"/>
+      </g>
+      <g id="Rectangle_104" data-name="Rectangle 104" transform="translate(135.867 473)" fill="none" stroke="#5a9aed" stroke-width="0.5">
+        <path d="M0,0H1A1,1,0,0,1,2,1V3A1,1,0,0,1,1,4H0A0,0,0,0,1,0,4V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M.25.25H1A.75.75,0,0,1,1.75,1V3A.75.75,0,0,1,1,3.75H.25a0,0,0,0,1,0,0V.25A0,0,0,0,1,.25.25Z" fill="none"/>
+      </g>
+      <g id="Rectangle_105" data-name="Rectangle 105" transform="translate(135.867 482)" fill="none" stroke="#5a9aed" stroke-width="0.5">
+        <path d="M0,0H1A1,1,0,0,1,2,1V3A1,1,0,0,1,1,4H0A0,0,0,0,1,0,4V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M.25.25H1A.75.75,0,0,1,1.75,1V3A.75.75,0,0,1,1,3.75H.25a0,0,0,0,1,0,0V.25A0,0,0,0,1,.25.25Z" fill="none"/>
+      </g>
+      <rect id="Rectangle_110" data-name="Rectangle 110" width="11" height="16" rx="1" transform="translate(122 471)" fill="#85cbfd"/>
+      <path id="Icon_material-person-outline" data-name="Icon material-person-outline" d="M8.289,6.544a.6.6,0,1,1-.6.6.6.6,0,0,1,.6-.6m0,2.575c.85,0,1.746.418,1.746.6v1.151H6.544V9.72c0-.183.9-.6,1.746-.6M8.289,6A1.145,1.145,0,1,0,9.434,7.145,1.144,1.144,0,0,0,8.289,6Zm0,2.575C7.525,8.575,6,8.959,6,9.72v1.694h4.579V9.72C10.579,8.959,9.053,8.575,8.289,8.575Z" transform="translate(119.627 470.189)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

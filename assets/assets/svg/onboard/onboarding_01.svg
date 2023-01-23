@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200.459" height="349.497" viewBox="0 0 200.459 349.497">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#23c253" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_659" data-name="Group 659" transform="translate(-87.03 -372)">
+    <path id="Union_10" data-name="Union 10" d="M23.119,53.255C8.7,49.611,0,44.9,0,39.748a5.168,5.168,0,0,1,.779-2.654c.371-2.318,2.176-13.386,3.535-17.677.159-.5-.02.131.5,1.453C4.934,9.339,46.895,0,98.638,0c51.817,0,93.823,9.366,93.823,20.92q0,.162-.011.323l2.818,16.281s12.8,22.884-92.506,23.23c-.765,0-1.539,0-2.293,0C61.38,60.759,37.592,57.409,23.119,53.255Z" transform="translate(89.159 658.375)" fill="#9cdbf6"/>
+    <ellipse id="Ellipse_114" data-name="Ellipse 114" cx="79" cy="12.5" rx="79" ry="12.5" transform="translate(110 664)" fill="#f6f7ff"/>
+    <path id="Path_464" data-name="Path 464" d="M2932.161,2942.646s-39.473,1.669-71.769-4.747-31.53-17.042-31.53-17.042l3.747-20.228s3.417-19.444,95.623-19.444,89.774,17.992,89.774,17.992" transform="translate(-2739.324 -2223.866)" fill="none" stroke="#3b3858" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <path id="Path_466" data-name="Path 466" d="M2963.689,2895.723c-26.2-1.728-69.82,0-69.82,0s-15.143,1.5-26.084,3.242-17.256,5.726-17.256,5.726" transform="translate(-2738.773 -2228.904)" fill="none" stroke="#8cc6df" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <g id="Rectangle_45" data-name="Rectangle 45" transform="translate(96 372)" fill="#ffe59e" stroke="#3b3858" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" stroke-dasharray="150 10">
+      <rect width="183" height="231" rx="11" stroke="none"/>
+      <rect x="2.5" y="2.5" width="178" height="226" rx="8.5" fill="none"/>
+    </g>
+    <path id="Path_472" data-name="Path 472" d="M2809.256,2953.741s5.352,16.787,92.937,16.057,85.235-19.586,85.235-19.586" transform="translate(-2711.167 -2272.781)" fill="none" stroke="#8cc6df" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <path id="Path_473" data-name="Path 473" d="M3015.208,2952.773s6.926,21.049,6.083,25.59-6.27,8.283-16,10.9-27.7,5.24-27.7,5.24" transform="translate(-2736.374 -2278.216)" fill="none" stroke="#3b3858" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <path id="Path_475" data-name="Path 475" d="M2831.122,2972.194l-3.167,15.835" transform="translate(-2711.739 -2280.577)" fill="none" stroke="#8cc6df" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <path id="Path_476" data-name="Path 476" d="M2949.412,2978.686l1.7,16.053" transform="translate(-2731.734 -2281.646)" fill="none" stroke="#8cc6df" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <rect id="Rectangle_47" data-name="Rectangle 47" width="112" height="27" rx="8" transform="translate(132 516)" fill="#5b67b8" opacity="0.46"/>
+    <g id="Rectangle_48" data-name="Rectangle 48" transform="translate(129 422)" fill="#3f53d9" stroke="#2646b1" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" stroke-dasharray="150 20">
+      <rect width="117" height="116" rx="11" stroke="none"/>
+      <rect x="2.5" y="2.5" width="112" height="111" rx="8.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_49" data-name="Rectangle 49" width="117" height="52" rx="11" transform="translate(129 558)" fill="#9cdbf6" opacity="0.43"/>
+    <rect id="Rectangle_50" data-name="Rectangle 50" width="117" height="57" rx="11" transform="translate(129 635)" fill="#9cdbf6" opacity="0.43"/>
+    <g id="Rectangle_51" data-name="Rectangle 51" transform="translate(96 372)" fill="#f2825a" stroke="#3b3858" stroke-width="5">
+      <path d="M11,0H172a11,11,0,0,1,11,11V27a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V11A11,11,0,0,1,11,0Z" stroke="none"/>
+      <path d="M11,2.5H172a8.5,8.5,0,0,1,8.5,8.5V24.5a0,0,0,0,1,0,0H2.5a0,0,0,0,1,0,0V11A8.5,8.5,0,0,1,11,2.5Z" fill="none"/>
+    </g>
+    <circle id="Ellipse_115" data-name="Ellipse 115" cx="3" cy="3" r="3" transform="translate(111 383)" fill="#fff"/>
+    <circle id="Ellipse_117" data-name="Ellipse 117" cx="3" cy="3" r="3" transform="translate(122 383)" fill="#f7bf80"/>
+    <path id="Icon_ionic-ios-close" data-name="Icon ionic-ios-close" d="M15.411,14.623l2.383-2.383a.558.558,0,0,0-.79-.79l-2.383,2.383-2.383-2.383a.558.558,0,1,0-.79.79l2.383,2.383-2.383,2.383a.558.558,0,0,0,.79.79l2.383-2.383L17,17.8a.558.558,0,0,0,.79-.79Z" transform="translate(246.471 371.465)" fill="#d26c49"/>
+    <g id="Rectangle_52" data-name="Rectangle 52" transform="translate(139 431)" fill="none" stroke="#fff" stroke-width="3">
+      <rect width="13" height="13" rx="5" stroke="none"/>
+      <rect x="1.5" y="1.5" width="10" height="10" rx="3.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_53" data-name="Rectangle 53" width="64" height="5" rx="2.5" transform="translate(162 435)" fill="#fff"/>
+    <g id="Icon_feather-bell" data-name="Icon feather-bell" transform="translate(169.978 456)">
+      <path id="Path_477" data-name="Path 477" d="M27,12A9,9,0,0,0,9,12C9,22.5,4.5,25.5,4.5,25.5h27S27,22.5,27,12" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_478" data-name="Path 478" d="M20.595,31.5a3,3,0,0,1-5.19,0" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <rect id="Rectangle_54" data-name="Rectangle 54" width="37" height="4" rx="2" transform="translate(170 504)" fill="#fff"/>
+    <rect id="Rectangle_55" data-name="Rectangle 55" width="84" height="4" rx="2" transform="translate(146 516)" fill="#fff"/>
+    <path id="Path_469" data-name="Path 469" d="M2844.242,2904.757c.984-4.922-5.269-63.492-5.269-63.492h170.26l-5.26,63.492s-11.425,11.117-83.786,12.237S2844.242,2904.757,2844.242,2904.757Z" transform="translate(-2737 -2225)" opacity="0.28" fill="url(#linear-gradient)"/>
+    <path id="Path_479" data-name="Path 479" d="M4270.027,2684.332h172.89" transform="translate(-4169 -2288)" fill="none" stroke="#da6f49" stroke-width="5"/>
+  </g>
+</svg>

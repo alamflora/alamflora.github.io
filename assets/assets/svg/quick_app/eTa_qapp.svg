@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <g id="Group_646" data-name="Group 646" transform="translate(-111 -359)">
+    <g id="Group_137" data-name="Group 137" transform="translate(81 60)">
+      <rect id="Rectangle_89" data-name="Rectangle 89" width="70" height="70" rx="10" transform="translate(30 299)" fill="#fff"/>
+      <text id="eTA" transform="translate(38 355)" fill="#3b3858" font-size="12" font-family="Nunito-Bold, Nunito" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">eTA</tspan></text>
+    </g>
+    <g id="Group_641" data-name="Group 641" transform="translate(119.429 371.143)">
+      <g id="Rectangle_113" data-name="Rectangle 113" transform="translate(1 1)" fill="#fff" stroke="#5a9aed" stroke-width="0.5">
+        <rect width="16" height="16" rx="2" stroke="none"/>
+        <rect x="0.25" y="0.25" width="15.5" height="15.5" rx="1.75" fill="none"/>
+      </g>
+      <rect id="Rectangle_114" data-name="Rectangle 114" width="15.713" height="15.713" rx="2" fill="#85cbfd"/>
+      <path id="Icon_material-flight-takeoff" data-name="Icon material-flight-takeoff" d="M3.069,12.583h8.9v.937h-8.9ZM12.237,8.2a.7.7,0,0,0-.862-.5l-2.487.665L5.655,5.355l-.9.239L6.69,8.953l-2.328.623-.923-.721-.679.183.853,1.48.361.623.75-.2,2.487-.665L9.248,9.73l2.487-.665A.713.713,0,0,0,12.237,8.2Z" transform="translate(0.347 -1.581)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
